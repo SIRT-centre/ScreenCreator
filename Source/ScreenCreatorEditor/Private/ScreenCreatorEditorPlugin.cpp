@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright 2023 Sheridan College
 
 #include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"

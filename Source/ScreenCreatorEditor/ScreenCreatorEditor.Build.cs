@@ -1,3 +1,5 @@
+// Copyright 2023 Sheridan College
+
 using UnrealBuildTool;
 
 public class ScreenCreatorEditor : ModuleRules

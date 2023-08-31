@@ -1,3 +1,5 @@
+// Copyright 2023 Sheridan College
+
 #include "ScreenCreatorComponentDetails.h"
 #include "ProceduralMeshConversion.h"
 #include "Modules/ModuleManager.h"

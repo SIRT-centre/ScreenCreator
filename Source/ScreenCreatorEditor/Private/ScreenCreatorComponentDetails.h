@@ -1,4 +1,4 @@
-// Adapted from Unreal's Procedural Mesh Component Details
+// Copyright 2023 Sheridan College
 
 #pragma once
 

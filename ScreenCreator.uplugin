@@ -6,13 +6,15 @@
 	"Description": "",
 	"Category": "Other",
 	"CreatedBy": "Screen Industries Research & Training Centre (SIRT)",
-	"CreatedByURL": "",
+	"CreatedByURL": "https://www.sirtcentre.com/",
 	"DocsURL": "",
-	"MarketplaceURL": "",
+	"MarketplaceURL": "com.epicgame.launcher://ue/marketplace/product/433aecece72048e29f464a74cab95f34",
 	"SupportURL": "",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
+	"EngineVersion": "5.2",
+	"SupportedTargetPlatforms": [ "Win64" ],
 	"Installed": false,
 	"Modules": [
 		{
