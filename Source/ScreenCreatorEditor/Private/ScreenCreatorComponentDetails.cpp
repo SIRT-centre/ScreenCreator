@@ -21,7 +21,7 @@
 #include "StaticMeshAttributes.h"
 #include "PhysicsEngine/BodySetup.h"
 #include "Dialogs/DlgPickAssetPath.h"
-#include "AssetRegistryModule.h"
+//#include "AssetRegistryModule.h"
 #include "UnrealEdGlobals.h"
 #include "Widgets/Input/SVectorInputBox.h"
 #include "HAL/PlatformApplicationMisc.h"
